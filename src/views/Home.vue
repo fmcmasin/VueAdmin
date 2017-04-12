@@ -75,7 +75,7 @@
 	export default {
 		data() {
 			return {
-				sysName:'VUEADMIN',
+				sysName:'学生管理系统',
 				collapsed:false,
 				sysUserName: '',
 				sysUserAvatar: '',
